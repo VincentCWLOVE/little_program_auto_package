@@ -1,0 +1,5 @@
+<!--component/uniin-tip/uniin-tip.wxml-->
+<view class="uniin-tip">
+    <image class="err-img" src="../../res/img/form-err.png" mode="aspectFit"  />
+    <text class="err-content">{{text}}</text>
+</view>

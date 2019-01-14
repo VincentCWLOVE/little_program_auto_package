@@ -1,0 +1,10 @@
+page {
+  background-color: #fff;
+  position: relative;
+}
+page .container {
+  background-color: #fff;
+}
+page .container view {
+  width: 6.66667vw;
+}
